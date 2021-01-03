@@ -10,6 +10,6 @@ A calculator for time dialation and length contraction. (According to theory of 
 - Might make descriptions more rigid.
 - Might add Lorentz transformation
 
-*'The gist of relativity is that whatever you see, I see too.' Ian*
+***'The gist of relativity is that whatever you see, I see too.' Ian Hsiao***
 
 Initiated on 2021/1/2
